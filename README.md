@@ -29,7 +29,14 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AshiqAhamed17&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 
 </div>
-
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=ak6tpxy9blfn2w71l0srtuh1l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
+      alt="Spotify Now Playing"
+    />
+  </a>
+</div>
 <!--<img src="https://raw.githubusercontent.com/AshiqAhamed17/AshiqAhamed17/output/snake.svg" alt="Snake animation" /> -->
 </div>
 
