@@ -70,6 +70,8 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqAhamed17&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshiqAhamed17&theme=dracula)  
+
 ---
 
 
@@ -77,19 +79,4 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiqAhamed17&theme=tokyonight" alt="GitHub Streak Stats" />
-  
----
-
-### 🎧 Spotify Now Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ak6tpxy9blfn2w71l0srtuh1l">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ak6tpxy9blfn2w71l0srtuh1l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
-  </a>
-</div>
-
----
-
-## Fake it till you make it...
-
 ---
