@@ -15,9 +15,11 @@
 
 ### 🔥 About Me
 
+👋 Hey there!
+🚀 Aspiring Web3 Developer & Competitive Programmer | Smart Contract Auditor in the Making | Full Stack developer
+💻 Tech Stack: Solidity | Foundry | React.js | Next.js | Node.js | TypeScript | Python | C++
+🔍 Passionate about building decentralized applications, solving coding challenges, and exploring blockchain security.
 🚀 **Currently diving deep into Blockchain and Web3.0 development**, focusing on **Solidity**, **Smart Contract Auditing**, and **Security**.  
-💻 **Problem-solving** is my second nature, and I spend most of my time building cool projects, solving LeetCode challenges, and learning new technologies.  
-🌱 **Learning new stuff** is my passion, and I'm always up to date with **Foundry**, **Web3 security**, and **Smart Contract Hacking**.
 
 ---
 
