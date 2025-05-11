@@ -9,7 +9,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AshiqAhamed17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br>
+  https://bento.me/0xarektq
 </p>
+
 
 ---
 
