@@ -1,5 +1,5 @@
-<h1 align="center">👨‍💻 Hey, I'm Ashiq! 🌐</h1>
-<h3 align="center">🔗 Passionate Blockchain/Web3 Developer & Smart Contract Enthusiast</h3>
+
+<h3 align="center">🔗 Ashiq Ahamed | Blockchain Security & Web3 Innovator</h3>
 
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/79731568097599.5b50bca477735.jpg" height="200" alt="Tech Banner" />
@@ -18,11 +18,19 @@
 
 ### 🔥 About Me
 
-👋 Hey there!
-🚀 Aspiring Web3 Developer & Competitive Programmer | Smart Contract Auditor in the Making | Full Stack developer
-💻 Tech Stack: Solidity | Foundry | React.js | Next.js | Node.js | TypeScript | Python | C++
-🔍 Passionate about building decentralized applications, solving coding challenges, and exploring blockchain security.
-🚀 **Currently diving deep into Blockchain and Web3.0 development**, focusing on **Solidity**, **Smart Contract Auditing**, and **Security**.  
+I'm a **dedicated Blockchain Security Specialist** and **Web3 Developer** specializing in **Smart Contract Auditing** and **Zero Knowledge (ZK) Proofs**. With a strong background in competitive programming and full-stack development, I combine analytical rigor with technical expertise to secure decentralized systems. My work focuses on auditing **secure smart contracts**, advancing **ZK-based privacy solutions**, and building scalable **Web3 applications** on **Ethereum** and **Solana**. Currently interning at **Hooman Digital**, I’m driven to innovate at the forefront of blockchain security and privacy.
+
+🔍 **Core Expertise:**
+- **Smart Contract Auditing**: Detecting vulnerabilities like reentrancy, access control issues, and gas inefficiencies using **Foundry**, **Slither**, and **Mythril**.
+- **Zero Knowledge Proofs**: Developing privacy-preserving dApps with **Circom**, **ZoKrates**, and **Noir**.
+- **Web3 Development**: Crafting decentralized applications using **Solidity**, **Rust**, **React.js**, and **Next.js**.
+- **Competitive Programming**: Sharpening problem-solving skills on **LeetCode**, **Codeforces**, and **CodeChef** (Rank: #444 on CodeHawks First Flight).
+
+🚀 **Current Focus:**
+- Performing **economic audits** and **security assessments** for DeFi protocols.
+- Building **ZK-based solutions** for private voting and secure data verification.
+- Advancing expertise in **formal verification** and **gas optimization** for smart contracts.
+- Contributing to audit competitions like **Code4rena** and **Cantina** to enhance security skills. 
 
 ---
 
@@ -51,6 +59,19 @@
 </p>
 
 ---
+
+## 🏆 Competitive Programming & Audit Achievements
+
+- **Competitive Programming**:
+  - **LeetCode**: [Ashiq17](https://leetcode.com/u/Ashiq17/)
+  - **Codeforces**: [Profile](https://codeforces.com/profile/AshiqAhamed)
+  - **CodeChef**: [Profile](https://www.codechef.com/users/ashiq17)
+- **Audit Competitions**:
+  - Ranked **#444** in **CodeHawks First Flight**, identifying low-severity vulnerabilities.
+  - Engaging in **Code4rena** audits to strengthen high-stakes smart contract security expertise.
+
+---
+
 
 ### 📧 Let's Connect!
 
