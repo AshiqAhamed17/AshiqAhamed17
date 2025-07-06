@@ -33,39 +33,37 @@ I'm a **dedicated Blockchain Security Specialist** and **Web3 Developer** specia
 - Contributing to audit competitions like **Code4rena** and **Cantina** to enhance security skills. 
 
 ---
+## 🛠️ Technologies & Tools
 
-### 🛠️ Technologies & Tools I Use
+### Blockchain & Web3
+- **Languages**: Solidity, Rust, Noir
+- **Platforms**: Ethereum, Solana
+- **Tools**: Foundry, Circom, ZoKrates, Slither, Mythril
 
-**Languages & Frameworks**  
-<p align="center">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" />
-</p>
+### Languages & Frameworks
+- **Languages**: JavaScript, TypeScript, Python, C, C++, Java
+- **Frontend**: React.js, Next.js, Tailwind CSS
+- **Backend**: Node.js, Express.js
 
-**Blockchain & Web3**  
-<p align="center">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/foundry/foundry-original.svg" alt="Foundry" />
-  <img height="40" src="" alt="Ethereum" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" alt="Solana" />
-</p>
+### Databases
+- MongoDB
+- MySQL
+- PostgreSQL
+
+### Tools & Platforms
+- Git
+- Docker
+- VS Code
 
 ---
+
 
 ## 🏆 Competitive Programming & Audit Achievements
 
 - **Competitive Programming**:
   - **LeetCode**: [Ashiq17](https://leetcode.com/u/Ashiq17/)
   - **Codeforces**: [Profile](https://codeforces.com/profile/AshiqAhamed)
-  - **CodeChef**: [Profile](https://www.codechef.com/users/ashiq17)
+  - **CodeChef**: [Profile](https://www.codechef.com/users/ashiq_17)
 - **Audit Competitions**:
   - Ranked **#444** in **CodeHawks First Flight**, identifying low-severity vulnerabilities.
   - Engaging in **Code4rena** audits to strengthen high-stakes smart contract security expertise.
