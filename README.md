@@ -1,5 +1,5 @@
 
-<h3 align="center">🔗 Ashiq Ahamed | Blockchain Security & Web3 Innovator</h3>
+<h3 align="center">🔗 Ashiq Ahamed [0xArektQ]| Blockchain Security & Web3 </h3>
 
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/79731568097599.5b50bca477735.jpg" height="200" alt="Tech Banner" />
@@ -18,7 +18,7 @@
 
 ---
 
-### 🔥 About Me
+### About Me
 
 I'm a **dedicated Blockchain Security Specialist** and **Web3 Developer** specializing in **Smart Contract Auditing** and **Zero Knowledge (ZK) Proofs**. With a strong background in competitive programming and full-stack development, I combine analytical rigor with technical expertise to secure decentralized systems. My work focuses on auditing **secure smart contracts**, advancing **ZK-based privacy solutions**, and building scalable **Web3 applications** on **Ethereum** and **Solana**. Currently interning at **Hooman Digital**, I’m driven to innovate at the forefront of blockchain security and privacy.
 
@@ -28,14 +28,14 @@ I'm a **dedicated Blockchain Security Specialist** and **Web3 Developer** specia
 - **Web3 Development**: Crafting decentralized applications using **Solidity**, **Rust**, **React.js**, and **Next.js**.
 - **Competitive Programming**: Sharpening problem-solving skills on **LeetCode**, **Codeforces**, and **CodeChef** (Rank: #444 on CodeHawks First Flight).
 
-🚀 **Current Focus:**
+**Current Focus:**
 - Performing **economic audits** and **security assessments** for DeFi protocols.
 - Building **ZK-based solutions** for private voting and secure data verification.
 - Advancing expertise in **formal verification** and **gas optimization** for smart contracts.
 - Contributing to audit competitions like **Code4rena** and **Cantina** to enhance security skills. 
 
 ---
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Blockchain & Web3
 - **Languages**: Solidity, Rust, Noir
@@ -60,7 +60,7 @@ I'm a **dedicated Blockchain Security Specialist** and **Web3 Developer** specia
 ---
 
 
-## 🏆 Competitive Programming & Audit Achievements
+## Competitive Programming & Audit Achievements
 
 - **Competitive Programming**:
   - **LeetCode**: [Ashiq17](https://leetcode.com/u/Ashiq17/)
@@ -73,7 +73,7 @@ I'm a **dedicated Blockchain Security Specialist** and **Web3 Developer** specia
 ---
 
 
-### 📧 Let's Connect!
+### Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashiq-ahamed-6559ba275/" target="_blank">
@@ -86,7 +86,7 @@ I'm a **dedicated Blockchain Security Specialist** and **Web3 Developer** specia
 
 ---
 
-### 🌐 GitHub Stats & Contribution Graphs
+### GitHub Stats & Contribution Graphs
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -101,7 +101,7 @@ I'm a **dedicated Blockchain Security Specialist** and **Web3 Developer** specia
 ---
 
 
-### 🔥 Recent Contributions 
+### Recent Contributions 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiqAhamed17&theme=tokyonight" alt="GitHub Streak Stats" />
