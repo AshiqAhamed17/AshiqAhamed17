@@ -85,6 +85,18 @@ React.js, Next.js, TailwindCSS
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqAhamed17&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AshiqAhamed17&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AshiqAhamed17&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AshiqAhamed17&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshiqAhamed17&theme=dracula)
 
 <div align="center">
